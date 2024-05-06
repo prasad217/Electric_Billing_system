@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/prasad217/Electric_Billing_system_frontend.git
